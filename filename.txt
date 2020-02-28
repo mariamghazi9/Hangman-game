@@ -1,0 +1,9 @@
+donkey
+cow
+cat
+monkey
+banana
+hangman
+java
+data
+structure
